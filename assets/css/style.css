@@ -1,0 +1,33 @@
+.jumbotron {
+	background-image: url(http://s1.1zoom.me/big0/132/Trains_Night_465401.jpg);
+	background-size: cover;
+	color: white;
+	font: bold;
+	
+
+}
+	
+
+a {
+	color: white;
+
+}
+
+.container {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+
+.card-header {
+	background-color: rgba(223, 7, 7, 0.938);
+	font-weight: bold;
+}
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
